@@ -4,14 +4,11 @@ SEM part only
 
 (G)LMM part is not shown here
 
-of course "Introduction to structural equation modeling and mixed models in R"
-
-
-for # [2022](https://github.com/oksanabuzh/Structural_Equation_Modeling_Course/tree/main/2022_SEM_course) and # [2023](https://github.com/oksanabuzh/Structural_Equation_Modeling_Course/tree/main/2023_SEM_course) 
-
-
+course "Introduction to structural equation modeling and mixed models in R"
 Freie Universität Berlin
 
+
+# for [2022](https://github.com/oksanabuzh/Structural_Equation_Modeling_Course/tree/main/2022_SEM_course) and [2023](https://github.com/oksanabuzh/Structural_Equation_Modeling_Course/tree/main/2023_SEM_course) 
 
 [Dr. Oksana Buzhdygan](https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/botanik/ag_tietjen/People/wissenschaftliche_mitarbeiter/Buzhdygan/index.html) 
 
