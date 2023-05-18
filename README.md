@@ -9,3 +9,11 @@ for 2022 and 2023
 Freie Universität Berlin
 
 oksana.buzh@fu-berlin.de
+
+
+
+Instructors:
+
+Oksana Buzhdygan - Structural Equation Modeling part
+
+Felix May - (G)LMM part (not shown here)

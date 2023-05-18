@@ -1,17 +1,18 @@
-# 2023
+# 2023  SEM materials
 
 This folder contains materials for the SEM part only
 
 of the course
 "Introduction to structural equation modeling and mixed models in R"
 
-given in 2003 (winter semester)
+given in 2023 (winter semester)
 
 Instructors:
 
 Oksana Buzhdygan - Structural Equation Modeling part
 
-Felix May - (G)LMM part
+Felix May - (G)LMM (not shown here)
+
 
 # Part 1
 
