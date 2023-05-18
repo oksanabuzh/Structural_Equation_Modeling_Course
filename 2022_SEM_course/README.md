@@ -9,29 +9,23 @@ given in 2022 (winter semester)
 
 Instructors:
 
-Oksana Buzhdygan - Structural Equation Modeling part
+[Dr. Oksana Buzhdygan](https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/botanik/ag_tietjen/People/wissenschaftliche_mitarbeiter/Buzhdygan/index.html) - Structural Equation Modeling part
 
-Felix May - (G)LMM (not shown here)
+Dr. Felix May - (G)LMM (not shown here)
 
 
 # Part 1
 
 Part 1.1: Basics of SEM
-- From regression to SEM
-- SEM history. SEM in natural sciences.
-- SEM workflow process. Where do I start?
-- First impression of ‘lavaan’
+[Video for the lecture](https://youtu.be/y1JajRMT9io)
 
 Part 1.2: Understanding path coefficients
-- Variance, covariance, correlation, regression coefficients
-- Indirect effects
-- Unexplained variances
+
+[Video for the lecture](https://youtu.be/7UHu8udL7WI)
 
 Part 1.3: Introduction to Covariance-based SEM
-- SEM using likelihood and covariance matrices
-- Model Identifiability
-- Sample Size for SEM
-- Assessing model fit: 𝜒2, related indices
+
+[Video for the lecture](https://youtu.be/t9_LGfC-Cso)
 
 # Part 2
 
@@ -50,15 +44,12 @@ Part 3.2: Latent Variables in SEM
 # Part 4
 
 Part 4.1: Introduction to Local Estimation in SEM 
-- Global vs. Local Estimations. Piecewise SEM
-- Assessing Model Fit
-- Model Comparison
-- Categorical Data in Piecewise SEM 
+
 
 Part 4.2: Interactions in SEM 
-- Single Interactions in sub-models
-- Multigroup Analysis (model-wide interactions)
+
 
 Part 4.3: Extensions to GLM, LMM, and GLMM
+
 
 # Final Exercises
