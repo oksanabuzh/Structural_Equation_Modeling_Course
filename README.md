@@ -10,7 +10,7 @@ Freie Universität Berlin
 
 # for [2022](https://github.com/oksanabuzh/Structural_Equation_Modeling_Course/tree/main/2022_SEM_course) and [2023](https://github.com/oksanabuzh/Structural_Equation_Modeling_Course/tree/main/2023_SEM_course) 
 
-[Dr. Oksana Buzhdygan](https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/botanik/ag_tietjen/People/wissenschaftliche_mitarbeiter/Buzhdygan/index.html) 
+# [Dr. Oksana Buzhdygan](https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/botanik/ag_tietjen/People/wissenschaftliche_mitarbeiter/Buzhdygan/index.html) 
 
 oksana.buzh@fu-berlin.de
 
