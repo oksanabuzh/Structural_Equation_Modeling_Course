@@ -16,16 +16,11 @@ Dr. Felix May - (G)LMM (not shown here)
 
 # Part 1
 
-Part 1.1: Basics of SEM
-[Video for the lecture](https://youtu.be/y1JajRMT9io)
+Part 1.1: Basics of SEM [Video for the lecture](https://youtu.be/y1JajRMT9io)
 
-Part 1.2: Understanding path coefficients
+Part 1.2: Understanding path coefficients [Video for the lecture](https://youtu.be/7UHu8udL7WI)
 
-[Video for the lecture](https://youtu.be/7UHu8udL7WI)
-
-Part 1.3: Introduction to Covariance-based SEM
-
-[Video for the lecture](https://youtu.be/t9_LGfC-Cso)
+Part 1.3: Introduction to Covariance-based SEM [Video for the lecture](https://youtu.be/t9_LGfC-Cso)
 
 # Part 2
 

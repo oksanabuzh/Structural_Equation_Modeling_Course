@@ -7,7 +7,7 @@ SEM part only
 of course "Introduction to structural equation modeling and mixed models in R"
 
 
-for 2022 and 2023
+for # [2022](https://github.com/oksanabuzh/Structural_Equation_Modeling_Course/tree/main/2022_SEM_course) and # [2023](https://github.com/oksanabuzh/Structural_Equation_Modeling_Course/tree/main/2023_SEM_course) 
 
 
 Freie Universität Berlin
