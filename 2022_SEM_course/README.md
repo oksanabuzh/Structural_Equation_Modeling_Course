@@ -24,9 +24,9 @@ Part 1.3: Introduction to Covariance-based SEM [Video for the lecture](https://y
 
 # Part 2
 
-Part 2.1: Assumptions of covariance-based estimation and adjusting for violated assumptions
+Part 2.1: Assumptions of covariance-based estimation and adjusting for violated assumptions [Video for the lecture](https://youtu.be/30bNyHE-bSs)
 
-Part 2.2: Model comparison and selection in SEM
+Part 2.2: Model comparison and selection in SEM [Video for the lecture](https://youtu.be/hWvdSvmmtuQ)
 
 
 # Part 3
