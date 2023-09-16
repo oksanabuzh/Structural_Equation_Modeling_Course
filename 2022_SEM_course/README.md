@@ -31,20 +31,19 @@ Part 2.2: Model comparison and selection in SEM [Video for the lecture](https://
 
 # Part 3
 
-Part 3.1: Categorical Variables in SEM
+Part 3.1: Categorical Variables in SEM [Video for the lecture](https://youtu.be/hM-bZ1DK1Pc)
 
-Part 3.2: Latent Variables in SEM
+Part 3.2: Latent Variables in SEM [Video for the lecture](https://youtu.be/sJWuUIr7Sdo)
 
 
 # Part 4
 
-Part 4.1: Introduction to Local Estimation in SEM 
+Part 4.1: Introduction to Local Estimation in SEM [Video for the lecture](https://youtu.be/hs_3pD49ZzU)
 
 
-Part 4.2: Interactions in SEM 
+Part 4.2: Interactions in SEM [Video for the lecture](https://youtu.be/5x4XvEMQCUk)
 
 
-Part 4.3: Extensions to GLM, LMM, and GLMM
+Part 4.3: Extensions to GLM, LMM, and GLMM[Video for the lecture](https://youtu.be/-hBnyxRiRIs)
 
 
-# Final Exercises
