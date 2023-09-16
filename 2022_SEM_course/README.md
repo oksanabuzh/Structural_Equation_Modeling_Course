@@ -44,6 +44,6 @@ Part 4.1: Introduction to Local Estimation in SEM [Video for the lecture](https:
 Part 4.2: Interactions in SEM [Video for the lecture](https://youtu.be/5x4XvEMQCUk)
 
 
-Part 4.3: Extensions to GLM, LMM, and GLMM[Video for the lecture](https://youtu.be/-hBnyxRiRIs)
+Part 4.3: Extensions to GLM, LMM, and GLMM [Video for the lecture](https://youtu.be/-hBnyxRiRIs)
 
 
