@@ -10,9 +10,10 @@ Freie Universität Berlin
 
 # for [2022](https://github.com/oksanabuzh/Structural_Equation_Modeling_Course/tree/main/2022_SEM_course) and [2023](https://github.com/oksanabuzh/Structural_Equation_Modeling_Course/tree/main/2023_SEM_course) 
 
-# [Dr. Oksana Buzhdygan](https://www.bcp.fu-berlin.de/en/biologie/arbeitsgruppen/botanik/ag_tietjen/People/wissenschaftliche_mitarbeiter/Buzhdygan/index.html) 
+This course expects prior knowledge of R, basic statistics, LMs and GLMs. See our R course materials for preparation. https://ecomods.github.io/r-statistics-course/
 
 oksana.buzh@fu-berlin.de
+Oksana Buzhdygan
 
 
 # Video lectures from 2022:
