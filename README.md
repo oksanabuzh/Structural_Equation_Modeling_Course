@@ -1,17 +1,20 @@
 # Structural Equation Modeling (SEM) Course
 
-oksana.buzh@fu-berlin.de
-Oksana Buzhdygan
+course "Introduction to structural equation modeling and mixed models in R"
+Freie Universität Berlin
+
 
 SEM part only, (G)LMM part is not shown here
 
-course "Introduction to structural equation modeling and mixed models in R"
-Freie Universität Berlin
+
+oksana.buzh@fu-berlin.de
+Oksana Buzhdygan
 
 
 # for [2022](https://github.com/oksanabuzh/Structural_Equation_Modeling_Course/tree/main/2022_SEM_course) and [2023](https://github.com/oksanabuzh/Structural_Equation_Modeling_Course/tree/main/2023_SEM_course) 
 
 Before the course:
+
 This course expects prior knowledge of data wrangling in R, basic statistics, LMs and GLMs. For preparation see the R course materials https://ecomods.github.io/r-statistics-course/
 
 
